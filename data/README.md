@@ -1,12 +1,16 @@
 # Data
 
-This project uses healthcare wait-time data from the Canadian Institute for Health Information (CIHI).
+This project uses publicly available healthcare wait-time data from the Canadian Institute for Health Information (CIHI).
 
 ## Data Source
 
-The dataset is publicly available from CIHI.
+The dataset used in this project is:
 
-[Download the CIHI wait-time dataset](ACTUAL_CIHI_LINK)
+**Wait Times for Priority Procedures in Canada, 2008 to 2025 — Data Tables (XLSX)**
+
+The dataset can be accessed through the CIHI wait-times data page:
+
+[CIHI — Explore wait times for priority procedures across Canada](https://www.cihi.ca/en/explore-wait-times-for-priority-procedures-across-canada)
 
 ## File Setup
 

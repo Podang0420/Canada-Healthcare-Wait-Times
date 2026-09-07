@@ -4,19 +4,19 @@ This project uses publicly available healthcare wait-time data from the Canadian
 
 ## Data Source
 
-The dataset used in this project is:
-
-**Wait Times for Priority Procedures in Canada, 2008 to 2025 — Data Tables (XLSX)**
-
-The dataset can be accessed through the CIHI wait-times data page:
+The dataset used in this project is available from:
 
 [CIHI — Explore wait times for priority procedures across Canada](https://www.cihi.ca/en/explore-wait-times-for-priority-procedures-across-canada)
+
+The historical data tables include national, provincial, and regional wait-time data beginning in 2008.
+
+On the CIHI page, navigate to **Additional resources → Data tables → Download data tables (XLSX)**.
 
 ## File Setup
 
 The raw Excel file is not included in this repository.
 
-After downloading the dataset, place the Excel file at:
+After downloading the XLSX file, place it at:
 
 `data/Raw Data/wait-times-priority-procedures-in-canada-2008-2025-data-tables-en.xlsx`
 
